@@ -14,3 +14,8 @@ The problems in under water images:
 
 -- The results of Traditional Method ( Fusion , RGHS ) and Deep Learning-BASED Methods ( FUnIE and UNGN ) and U-shape Transformer ( proposed method) has been compared.
 
+added codes:
+
+1- !pip install scikit-image
+2- !unzip /content/task1.zip
+3- %cd /content/U-shape_Transformer_for_Underwater_Image_Enhancement-main

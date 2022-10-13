@@ -12,5 +12,5 @@ The problems in under water images problems:
 2-The existing data-driven based underwater image enhancement (UIE) techniques suffer from the lack of a large-scale dataset containing various underwater scenes and high-fidelity reference images.
 
 
-The results of Traditional Method ( Fusion , RGHS ) and Deep Learning-BASED Methods ( FUnIE and UNGN ) and U-shape Transformer ( proposed method) has been compared.
+-- The results of Traditional Method ( Fusion , RGHS ) and Deep Learning-BASED Methods ( FUnIE and UNGN ) and U-shape Transformer ( proposed method) has been compared.
 
